@@ -29,7 +29,7 @@ This is a movie search application created using HTML, CSS, and JavaScript. It i
 
 ## Hosted Link 🌍
 
-You can access the hosted version of the project [https://amisha2912.github.io/MovieSearchApp/](HOSTED LINK).
+You can access the hosted version of the project [HOSTED LINK](https://amisha2912.github.io/MovieSearchApp/).
 
 ---
 
